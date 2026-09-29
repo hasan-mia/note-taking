@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Each project keeps its own .gitignore (node_modules, .env, logs).
+# This root file is only for shared editor/OS noise.
